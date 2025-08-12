@@ -13,7 +13,7 @@
 
 </div>
 
-![壁纸](image/1.jpg)
+![壁纸](1.jpg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=TS137
 
