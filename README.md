@@ -17,7 +17,7 @@
 
 ![壁纸](image/头像.jpg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=TS137.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=TS137
 
 <!--
 **TS137/TS137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
