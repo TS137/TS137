@@ -1,71 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" width="800px" height="500px" font-size="16px">
 <style>
-@font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
-}
-.key {fill: #953800;}
-.value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #c2cfde;}
+.key {fill: #ff6b9d;}
+.value {fill: #4a90e2;}
+.addColor {fill: #7ed321;}
+.delColor {fill: #ff6b6b;}
+.cc {fill: #ffb8e5;}
+.heart {fill: #ff6b9d;}
+.star {fill: #ffd93d;}
+.cat {fill: #ff9f43;}
+.title {fill: #6c5ce7; font-weight: bold; font-size: 24px;}
+.subtitle {fill: #a29bfe; font-size: 18px;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">            ;;,, ,;,|g;~,,                      </tspan>
-<tspan x="15" y="50">         ,g@@@@@@l&amp;$$$@|,w$$@gy,            </tspan>
-<tspan x="15" y="70">        $@@@@@@@@@@$@@@@@@@@$$MW$k              </tspan>
-<tspan x="15" y="90">       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$            </tspan>
-<tspan x="15" y="110">     g@llM**'''||%@@@@@$@@$@@@@@@@L$&amp;      </tspan>
-<tspan x="15" y="130">   @$&amp;$F         ''T%M$@@@@@@@@@@@$@$@     </tspan>
-<tspan x="15" y="150">  @@@@F              ']@@@@@@$$@$@@@@          </tspan>
-<tspan x="15" y="170">  @@@$L               |$@@@$$l$@@@@$F          </tspan>
-<tspan x="15" y="190"> ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@           </tspan>
-<tspan x="15" y="210">  %$@@@$}',,gg@||@@@@l@g@ggg|l$&amp;$@@$       </tspan>
-<tspan x="15" y="230">  ]@@@@@'"*TTTTT'F  ]Wl|||''"'$]@@@@ </tspan>
-<tspan x="15" y="250">   $$@M$       ,#    ]gg,,,,,.r'$@$            </tspan>
-<tspan x="15" y="270">    &amp;$L        ' ,, ,,,'T''`    $$L        </tspan>
-<tspan x="15" y="290">     lL         T"||||!   `-    l"'  </tspan>
-<tspan x="15" y="310">     ' |        '||l||||"|L|  L `         </tspan>
-<tspan x="15" y="330">      ''   '|L++=*****""*"||` L|</tspan>
-<tspan x="15" y="350">        |           ,,      |||F               </tspan>
-<tspan x="15" y="370">        '         |||||||| ||l$                </tspan>
-<tspan x="15" y="390">          !                |l&amp;L            </tspan>
-<tspan x="15" y="410">           '!,       |||,||@M|L                </tspan>
-<tspan x="15" y="430">            ||l&amp;$@$$@$$$@$MT|||            </tspan>
-<tspan x="15" y="450">         |    |||lll$$llll|||||L               </tspan>
-<tspan x="15" y="470">    ,;y@        ||||||l||@|||||l               </tspan>
-<tspan x="15" y="490">,g$@$$$@         |||||||||||||||| $g,          </tspan>
-<tspan x="15" y="510">$$$$$$$$@    |    |||||||||||||| |$$@g         </tspan>
-</text>
-<text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Android 14, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">IDEA 2023.3.2, VSCode 1.96.0</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Java, Python, JavaScript, C++</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Spanish</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">agrantnmac@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">andrew@grant.software</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Andrew.Grant@ttmtech.com</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Andrew6rant</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">andrew6rant</tspan>
-<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">95</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">133</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">342</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">2,116</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">196</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">446,276</tspan> ( <tspan class="addColor" id="loc_add">523,178</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">76,902</tspan><tspan class="delColor">--</tspan> )
-</text>
+<rect width="800px" height="500px" fill="url(#bgGradient)" rx="20"/>
+<defs>
+  <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#e3f2fd;stop-opacity:1" />
+  </linearGradient>
+  <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#ff6b9d;stop-opacity:1" />
+    <stop offset="50%" style="stop-color:#6c5ce7;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#4a90e2;stop-opacity:1" />
+  </linearGradient>
+</defs>
+
+<!-- 装饰性 emoji 元素 -->
+<text x="50" y="80" font-size="36px" class="heart">💖</text>
+<text x="720" y="80" font-size="36px" class="star">🌟</text>
+<text x="50" y="450" font-size="36px" class="cat">🐱</text>
+<text x="720" y="450" font-size="36px" class="star">✨</text>
+
+<!-- 标题 -->
+<text x="200" y="60" class="title" font-size="28px">🌸 可爱程序员名片 💕</text>
+<text x="280" y="90" class="subtitle">Hello World! 你好世界！</text>
+
+<!-- 头像区域 (用 emoji 代替) -->
+<circle cx="100" cy="150" r="50" fill="#ffd1dc" stroke="#ff6b9d" stroke-width="3"/>
+<text x="75" y="165" font-size="40px">👩‍💻</text>
+
+<!-- 个人信息 -->
+<text x="180" y="140" class="key">👤 姓名:</text>
+<text x="280" y="140" class="value">可爱程序员</text>
+<tspan x="420" y="140" class="key">📍 来自:</tspan>
+<tspan x="500" y="140" class="value">中国 🇨🇳</tspan>
+
+<text x="180" y="170" class="key">🎂 年龄:</text>
+<text x="280" y="170" class="value">永远18岁 ✨</text>
+<tspan x="420" y="170" class="key">💫 星座:</tspan>
+<tspan x="500" y="170" class="value">双子座 ♊</tspan>
+
+<!-- 技能信息 -->
+<text x="50" y="230" class="key" font-weight="bold">💻 技术栈:</text>
+<text x="70" y="260" class="value">• Python 🐍  • JavaScript 💛  • HTML/CSS 🎨</text>
+<text x="70" y="290" class="value">• Linux 🐧  • Git 🐙  • Docker 🐳</text>
+
+<text x="50" y="330" class="key" font-weight="bold">🌟 爱好:</text>
+<text x="70" y="360" class="value">• 编程 💻  • 动漫 🎌  • 猫咪 🐱  • 咖啡 ☕</text>
+
+<!-- 联系方式 -->
+<text x="50" y="410" class="key" font-weight="bold">📬 联系我:</text>
+<text x="70" y="440" class="value">📧 email@example.com  •  💬 Discord: cutecoder</text>
+<text x="70" y="470" class="value">🐙 GitHub: cute-coder  •  💼 LinkedIn: cute-developer</text>
+
+<!-- 底部装饰 -->
+<text x="300" y="490" fill="#6c5ce7" font-size="14px">✨ Stay curious, stay cute! 🦄 💖 ✨</text>
+
+<!-- 彩虹桥 -->
+<path d="M 0 500 Q 200 480 400 500 T 800 500" stroke="url(#rainbow)" stroke-width="5" fill="none"/>
+<defs>
+  <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+    <stop offset="20%" style="stop-color:#ffd93d;stop-opacity:1" />
+    <stop offset="40%" style="stop-color:#7ed321;stop-opacity:1" />
+    <stop offset="60%" style="stop-color:#4a90e2;stop-opacity:1" />
+    <stop offset="80%" style="stop-color:#6c5ce7;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#ff6b9d;stop-opacity:1" />
+  </linearGradient>
+</defs>
 </svg>
