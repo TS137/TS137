@@ -6,10 +6,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TS137&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-config-red)
+<a href="https://github.com/Andrew6rant/Andrew6rant">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+  </picture>
+
+</a>
+
 
 </div>
 
