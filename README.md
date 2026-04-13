@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm mq白 (ts) 👋
+# Hi, I'm ts👋
 
 ![Modern C++ Template](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq;Welcome+to+my+profile;Code+%26+Math+%26+Hardware)
 
