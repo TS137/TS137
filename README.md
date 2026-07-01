@@ -5,9 +5,7 @@
 ![Modern C++ Template](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq;Welcome+to+my+profile;Code+%26+Math+%26+Hardware)
 
 <!-- 社交链接 -->
-[![知乎](https://img.shields.io/badge/知乎-mq白-0078D4?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/o4ze4r)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-[![Bilibili](https://img.shields.io/badge/Bilibili-mq白-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/your_id_here) <!-- 如果有B站可以加上 -->
+
 
 <br>
 
@@ -60,8 +58,8 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: your_email@example.com
-- 🌐 Blog: [Your Blog Link](https://yourblog.com)
+- 📧 Email: mlu389389@gmail.com
+
 
 ---
 
