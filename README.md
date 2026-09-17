@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="image/头像.jpg" alt="Profile Avatar" width="200" style="border-radius: 50%; border: 3px solid #fff; box-shadow: 0 0 10px rgba(0,0,0,0.1);"/>
+
 
 </div>
 
