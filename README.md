@@ -1,20 +1,15 @@
 <div align="center">
 
-# Hi, I'm ts👋
+# Hi, I'm Min Lu (TS137) 👋
 
-![Modern C++ Template](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq;Welcome+to+my+profile;Code+%26+Math+%26+Hardware)
-
-<!-- 社交链接 -->
-
-
-<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Machine+Vision+Engineer;Embedded+Software+Developer;AI+Algorithm+Engineer;Welcome+to+my+profile)
 
 <!-- 个人标签 -->
-![Language](https://img.shields.io/badge/Language-C++/Rust/Python-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Math_Student-yellow?style=flat-square)
-![Personality](https://img.shields.io/badge/Personality-Cheerful-red?style=flat-square)
-![Hobby](https://img.shields.io/badge/Hobby-Anime_%26_Games-pink?style=flat-square)
-![Motto](https://img.shields.io/badge/Motto-Hate_Studying-orange?style=flat-square)
+![Language](https://img.shields.io/badge/Language-C++/Python-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Machine_Vision_%26_Embedded-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Undergraduate-orange?style=flat-square)
+![OS](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Hardware](https://img.shields.io/badge/Hardware-STM32/ESP32/RDK_X3-red?style=flat-square)
 
 <br>
 
@@ -24,43 +19,65 @@
 
 ## 🧐 About Me
 
-- 🎓 **Major**: Mathematics Student with a passion for Computer Vision & Embedded Systems.
-- 💻 **Tech Stack**: Modern C++, Rust, Python (OpenCV), LaTeX, Linux (Arch).
-- 🔬 **Research Focus**: Object Detection, Tracking, Trajectory Prediction, and Real-time Video Processing.
-- 🛠️ **Hardware**: PCB Design (EDA), SMT, STM32/STC MCU, Motor Control, LED Matrix Projects.
-- 🐧 **OS**: Arch Linux User (`ts@arch`). Currently tinkering with NVIDIA drivers (nouveau vs proprietary).
-- ⚡ **Fun Fact**: I love building UIs for embedded systems almost as much as I hate studying for exams.
+- 🎓 **Education**: 桂林电子科技大学 (Guilin University of Electronic Technology), B.Eng. in Electronic Packaging Technology (电子信息类), 2023.09 – 2027.06
+- 🎯 **Career Goal**: 机器视觉工程师 / 嵌入式软件开发工程师 / AI算法工程师
+- 💻 **Tech Stack**: C++, Python, OpenCV, YOLOv8, STM32, ESP32, Linux
+- 🔬 **Research Focus**: Object Detection, Visual Servoing, Edge AI Deployment, Multi-sensor Fusion
+- 🛠️ **Hardware**: STM32/ESP32 MCU Development, 地平线 RDK X3 Edge Computing, Motor Control, Sensor Integration
+- 🐧 **OS**: Linux daily user, experienced in system administration, Wi-Fi driver development, and embedded Linux
+- ⚡ **Fun Fact**: I enjoy the full stack from algorithm design to hardware debugging — the whole pipeline from pixels to motors.
 
 ## 🚀 Skills & Tools
 
 ### Programming & Algorithms
-![C++](https://img.shields.io/badge/C++-Modern%20C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-System%20Prog-black?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Embedded/Application-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-OpenCV/CV-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-Object_Detection-00FFFF?style=flat-square)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Typesetting-008080?style=flat-square&logo=latex&logoColor=white)
 
-### Embedded & Hardware
-![PCB](https://img.shields.io/badge/PCB-EDA/DRC-green?style=flat-square&logo=altiumdesigner&logoColor=white)
-![MCU](https://img.shields.io/badge/MCU-STC/STM32-orange?style=flat-square&logo=arm&logoColor=white)
-![Tools](https://img.shields.io/badge/Tools-Oscilloscope/Multimeter-yellow?style=flat-square)
+### Embedded & Edge Computing
+![STM32](https://img.shields.io/badge/STM32-MCU_Dev-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![RDK X3](https://img.shields.io/badge/RDK_X3-Edge_AI-00A86B?style=flat-square)
+![RTMP](https://img.shields.io/badge/RTMP-Video_Streaming-FF0000?style=flat-square)
 
-### Dev Environment
-![Linux](https://img.shields.io/badge/Linux-Arch%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![IDE](https://img.shields.io/badge/IDE-CLion/Vim-000000?style=flat-square&logo=clion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+### Tools & Environment
+![Linux](https://img.shields.io/badge/Linux-System_Admin-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-Build_System-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Collaboration-F05032?style=flat-square&logo=git&logoColor=white)
+![Serial](https://img.shields.io/badge/Protocol-UART/I2C/SPI-yellow?style=flat-square)
+
+## 📂 Featured Projects
+
+| Project | Year | Description |
+|---------|------|-------------|
+| **Windows视觉跟踪上位机** | 2024 | Real-time vision tracking on Windows using OpenCV + YOLOv8; drives PTZ via serial/network with visual monitoring UI |
+| **起重机视觉传感设计** | 2024 | Dual-camera vision system for crane automation — stereo calibration, visual servoing, precision positioning & anti-sway control |
+| **智能分类垃圾桶** | 2025 | Smart waste sorting terminal with STM32 + 地平线 RDK X3; YOLOv8-based classification, IoT remote monitoring via MQTT |
+| **智能喂养视觉算法模块** | 2026 | Pet feeder vision system: individual pet recognition, eating/drinking behavior detection, RTMP live streaming to server |
+| **rv1103视频推流盒子** | 2026 | RV1103-based video streaming box with real-time capture, encoding, and RTMP push to server |
+
+## 🏆 Competitions & Activities
+
+- 🥇 **全国大学生电子设计竞赛** 广西赛区 — 视觉负责人 (桂林电子科技大学迈拓队)
+- 🥈 **全国大学生工程实践与创新能力大赛** 广西赛区 — 学习委员
+- 🥉 **全国大学生机械工程创新创意大赛** — 物流技术创意赛
+- 🔬 **学校老师视觉算法构建课题项目** — 独立开发
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TS137&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TS137&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ## 📫 Connect with Me
 
 - 📧 Email: mlu389389@gmail.com
-
+- 💬 WeChat: 14777487245
+- 🐙 GitHub: [github.com/TS137](https://github.com/TS137)
 
 ---
 
-> "Life is short, use Rust... or C++ if you must." 🦀⚡
+> "From pixels to motors — bridging vision and control." 🎯🤖
