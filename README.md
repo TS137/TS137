@@ -58,12 +58,7 @@
 | **智能喂养视觉算法模块** | 2026 | Pet feeder vision system: individual pet recognition, eating/drinking behavior detection, RTMP live streaming to server |
 | **rv1103视频推流盒子** | 2026 | RV1103-based video streaming box with real-time capture, encoding, and RTMP push to server |
 
-## 🏆 Competitions & Activities
 
-- 🥇 **全国大学生电子设计竞赛** 广西赛区 — 视觉负责人 (桂林电子科技大学迈拓队)
-- 🥈 **全国大学生工程实践与创新能力大赛** 广西赛区 — 学习委员
-- 🥉 **全国大学生机械工程创新创意大赛** — 物流技术创意赛
-- 🔬 **学校老师视觉算法构建课题项目** — 独立开发
 
 ## 📊 GitHub Stats
 
@@ -75,7 +70,6 @@
 ## 📫 Connect with Me
 
 - 📧 Email: mlu389389@gmail.com
-- 💬 WeChat: 14777487245
 - 🐙 GitHub: [github.com/TS137](https://github.com/TS137)
 
 ---
