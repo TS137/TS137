@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Min Lu (TS137) 👋
+# Hi, I'm TS 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Machine+Vision+Engineer;Embedded+Software+Developer;AI+Algorithm+Engineer;Welcome+to+my+profile)
 
