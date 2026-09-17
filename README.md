@@ -20,7 +20,7 @@
 ## 🧐 About Me
 
 - 🎓 **Education**: 桂林电子科技大学 (Guilin University of Electronic Technology), B.Eng. in Electronic Packaging Technology (电子信息类), 2023.09 – 2027.06
-- 🎯 **Career Goal**:  嵌入式软件开发工程师 /机器视觉工程师/边缘检测部署工程师
+- 🎯 **Career Goal**: 嵌入式软件开发工程师 / 机器视觉工程师 / 边缘检测部署工程师
 - 💻 **Tech Stack**: C++, Python, OpenCV, YOLOv8, STM32, ESP32, Linux
 - 🔬 **Research Focus**: Object Detection, Visual Servoing, Edge AI Deployment, Multi-sensor Fusion
 - 🛠️ **Hardware**: STM32/ESP32 MCU Development, 地平线 RDK X3 Edge Computing, Motor Control, Sensor Integration
@@ -59,7 +59,6 @@
 | **rv1103视频推流盒子** | 2026 | RV1103-based video streaming box with real-time capture, encoding, and RTMP push to server |
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -70,6 +69,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: mlu389389@gmail.com
+
 - 🐙 GitHub: [github.com/TS137](https://github.com/TS137)
 
 ---
