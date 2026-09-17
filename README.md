@@ -59,12 +59,7 @@
 | **rv1103视频推流盒子** | 2026 | RV1103-based video streaming box with real-time capture, encoding, and RTMP push to server |
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TS137&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TS137&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
 
 ## 📫 Connect with Me
 
